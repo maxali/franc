@@ -72,6 +72,7 @@ This build supports the following languages:
 | [`uzn`](http://www-01.sil.org/iso639-3/documentation.asp?id=uzn) | Northern Uzbek (Cyrillic)     | 18M      |
 | [`uzn`](http://www-01.sil.org/iso639-3/documentation.asp?id=uzn) | Northern Uzbek (Latin)        | 18M      |
 | [`ibo`](http://www-01.sil.org/iso639-3/documentation.asp?id=ibo) | Igbo                          | 17M      |
+| [`som`](http://www-01.sil.org/iso639-3/documentation.asp?id=som) | Somali                        | 17M      |
 | [`nep`](http://www-01.sil.org/iso639-3/documentation.asp?id=nep) | Nepali (macrolanguage)        | 16M      |
 | [`ceb`](http://www-01.sil.org/iso639-3/documentation.asp?id=ceb) | Cebuano                       | 15M      |
 | [`skr`](http://www-01.sil.org/iso639-3/documentation.asp?id=skr) | Saraiki                       | 15M      |
@@ -94,7 +95,6 @@ This build supports the following languages:
 | [`bul`](http://www-01.sil.org/iso639-3/documentation.asp?id=bul) | Bulgarian                     | 9M       |
 | [`swe`](http://www-01.sil.org/iso639-3/documentation.asp?id=swe) | Swedish                       | 9M       |
 | [`lin`](http://www-01.sil.org/iso639-3/documentation.asp?id=lin) | Lingala                       | 8M       |
-| [`som`](http://www-01.sil.org/iso639-3/documentation.asp?id=som) | Somali                        | 8M       |
 | [`hms`](http://www-01.sil.org/iso639-3/documentation.asp?id=hms) | Southern Qiandong Miao        | 8M       |
 | [`ilo`](http://www-01.sil.org/iso639-3/documentation.asp?id=ilo) | Iloko                         | 8M       |
 | [`kaz`](http://www-01.sil.org/iso639-3/documentation.asp?id=kaz) | Kazakh                        | 8M       |
